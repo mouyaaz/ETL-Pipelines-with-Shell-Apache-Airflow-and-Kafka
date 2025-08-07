@@ -7,8 +7,8 @@ This project demonstrates how to build and manage ETL (Extract, Transform, Load)
 ## Features
 
 * **BashOperator in Airflow:** Automate ETL tasks using shell scripts within Apache Airflow DAGs.
-* **PythonOperator in Airflow:** (Optional) Build ETL pipelines with Python tasks for better flexibility.
-* **Kafka Streaming:** (Optional) Implement continuous data streaming pipelines using Apache Kafka.
+* **PythonOperator in Airflow:**  Build ETL pipelines with Python tasks for better flexibility.
+* **Kafka Streaming:**  Implement continuous data streaming pipelines using Apache Kafka.
 * **Monitoring and Scheduling:** Use Airflow's UI to monitor and schedule data pipeline runs.
 * **Best practices:** Handle task dependencies, retries, and logging in Airflow.
 
