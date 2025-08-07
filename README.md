@@ -23,7 +23,7 @@ This project demonstrates how to build and manage ETL (Extract, Transform, Load)
 1. Install Apache Airflow and Kafka (links to official docs).
 2. Place the shell scripts and DAG files in the appropriate Airflow directories.
 3. Configure Airflow to run your DAGs.
-4. (Optional) Set up Kafka topics and run producer/consumer scripts for streaming.
+4. Set up Kafka topics and run producer/consumer scripts for streaming.
 
 ## Results
 
