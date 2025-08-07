@@ -37,5 +37,3 @@ This project demonstrates how to build and manage ETL (Extract, Transform, Load)
 * Apache Kafka
 * Bash scripting
 * Python (for optional PythonOperator DAGs)
-
-If you want, I can also help you write a detailed step-by-step guide or upload sample scripts for the repo. Would you like that?
